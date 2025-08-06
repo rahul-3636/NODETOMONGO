@@ -1,0 +1,6 @@
+/* Add this to App.css */
+.student-table, .student-table th, .student-table td {
+  border: 1px  yellow;
+  border-collapse: collapse;
+  padding: 8px;
+}
